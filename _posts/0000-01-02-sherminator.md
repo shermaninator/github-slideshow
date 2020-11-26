@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Thanksgiving is a great holiday
 Use the left arrow to go back!
